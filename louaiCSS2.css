@@ -1,0 +1,17 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
+    width: 50%;
+    margin-left: 30%;
+    color: white;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+  padding: 3px;
+}
+img{
+    width: 80%;
+}
